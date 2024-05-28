@@ -37,3 +37,8 @@ class budi : public pekerja, public pelajar {
             }
 };
 
+int mian() {
+    budi a(12);
+
+    return 0;
+}
