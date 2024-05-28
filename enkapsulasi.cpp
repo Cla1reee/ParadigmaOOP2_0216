@@ -20,9 +20,9 @@ using namespace std;
     lampuRumah.setSaklarNo(2, "Lampu Kamar Tidur");
     lampuRumah.setSaklarNo(3, "Lampu Dapur");
 
-    cout << lampurRumah.getsaklarNo(0) << endl;
-    cout << lampurRumah.getsaklarNo(1) << endl;
-    cout << lampurRumah.getsaklarNo(2) << endl;
-    cout << lampurRumah.getsaklarNo(3) << endl;
+    cout << lampuRumah.getSaklarNo(0) << endl;
+    cout << lampuRumah.getSaklarNo(1) << endl;
+    cout << lampuRumah.getSaklarNo(2) << endl;
+    cout << lampuRumah.getSaklarNo(3) << endl;
 
  }
